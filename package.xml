@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>kimm_polaris3d_smach</name>
+  <version>0.0.1</version>
+  <description>The kimm polaris3d_smach package</description>
+
+  <maintainer email="jspark2090@kimm.re.kr">Jinseong Park</maintainer>
+
+  <license>BSD</license>
+
+  <author email="jspark2090@kimm.re.kr">Jinseong Park</author>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>smach</run_depend>
+  <run_depend>std_srvs</run_depend>
+
+  <export>
+
+  </export>
+</package>
